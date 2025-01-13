@@ -1,0 +1,1 @@
+This project is copied and modified from [[https://github.com/KOBA789/rusty-keys/tree/main/firmware/hello][rusty-keys/firmware/hello at main · KOBA789/rusty-keys · GitHub]].
